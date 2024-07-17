@@ -3,5 +3,6 @@
   "citation": "Mycology Collections Data Portal (MyCoPortal). https://mycoportal.org",
   "url": "https://www.mycoportal.org/portal/content/dwca/rss.xml",
   "hasDependencies": false,
-  "shouldResolveReferences": false
+  "shouldResolveReferences": false,
+  "deprecated": true
 }
